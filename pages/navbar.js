@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import Link from "next/link";
-import Image from "next/Image";
+import Image from "next/image";
 import LogoWhite from "../public/Logo White.svg";
 
 function NavLink({ to, children }) {

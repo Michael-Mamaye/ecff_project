@@ -7,7 +7,7 @@ import CoffeeHand from "../../public/images/coffeeHand.png";
 import CultivatingPic from "../../public/images/cultivatingPic2.png";
 import CultivatingPic2 from "../../public/images/cultivatingPic.png";
 import GreenAreaCoffee from "../../public/images/greenAreaCoffee.png";
-import CoffeeConference from "../../public/images/CoffeeConference.png";
+import CoffeeConference from "../../public/images/coffeeConference.png";
 import ProfilePic from "../../public/images/profile.png";
 import UsaidLogo from "../../public/usaid.svg";
 import EurasLogo from "../../public/euras.svg";
