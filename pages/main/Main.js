@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Image from "next/Image";
+import Image from "next/image";
 import ThisItem from "../../public/images/mainPageBackground.png";
 import CoffeeCape from "../../public/images/coffeeCape.png";
 import CoffeeCup from "../../public/images/coffeeCup.png";

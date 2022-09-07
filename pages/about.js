@@ -1,15 +1,15 @@
 import React, { useEffect, useState } from "react";
-import CoffeeBeans from "../../public/images/coffeeBeans.png";
-import Image from "next/Image";
-import BeansImage from "../../public/images/beans.png";
-import MeetingImage from "../../public/images/meeting.png";
+import CoffeeBeans from "../public/images/coffeeBeans.png";
+import Image from "next/image";
+import BeansImage from "../public/images/beans.png";
+import MeetingImage from "../public/images/meeting.png";
 
-import HouseLogo from "../../public/house.svg";
-import TractorLogo from "../../public/tractor.svg";
-import MoneyLogo from "../../public/money.svg";
-import CaptureLogo from "../../public/capture.svg";
+import HouseLogo from "../public/house.svg";
+import TractorLogo from "../public/tractor.svg";
+import MoneyLogo from "../public/money.svg";
+import CaptureLogo from "../public/capture.svg";
 
-import DivImage from "../../public/images/divImage.png";
+import DivImage from "../public/images/divImage.png";
 
 const About = ({ impactsData }) => {
   const [data, setData] = useState(null);
